@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1604645816 source:c:\users\ridheesh\desktop\belman_ford\main.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1604645816 source:c:\users\ridheesh\desktop\datastructures\belman_ford\main.cpp
+	<stdio.h>
+	<stdlib.h>
+
